@@ -10,5 +10,5 @@ The sample code in this project demonstrates how to do the following:
 *Manage account balances
 
 ## known issues(Work in progress)
-At present, when at the last step (closing the app) the project gets stuck in a loop and reverts back to the selection made before that. This will be fixed soon!
+At present, when at the last step (closing the app) the project gets stuck in a loop and reverts back to the selection made before that.
 
